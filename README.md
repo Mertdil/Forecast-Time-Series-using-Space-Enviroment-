@@ -1,7 +1,9 @@
-# Forecast-Time-Series-using-Space-Enviroment
+• Collaborated with a team of three members and a supervisor to conduct statistical analysis and determine the effectiveness of various deep learning techniques in different circumstances.
 
-•Worked as a part of a three-person team accompanied by a supervisor. 
+• Conducted a thorough examination of time series charts and utilized the Long Short Term Memory (LSTM) algorithm to make accurate future predictions.
 
-•Found out which deep learning technique is more effective in which circumstances and statistical analyzes were made. 
+• Demonstrated expertise in selecting appropriate deep learning techniques to solve various data science problems.
 
-•Time series charts were examined and correct future predictions were made using the Long Short Term Memory (LSTM) algorithm.
+• Developed a solid understanding of statistical concepts and techniques to analyze data and draw meaningful insights.
+
+• Effectively communicated findings and insights to team members and stakeholders, contributing to the success of the project.
